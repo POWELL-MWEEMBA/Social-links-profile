@@ -111,6 +111,12 @@ a:hover{
     color: var(--Grey-900);
     cursor: pointer;
 }
+a:focus {
+    outline: 2px solid var(--Green); 
+    outline-offset: 2px;
+    background-color: var(--Green); 
+    color: var(--Grey-900);
+}
 
 @media only screen and (min-width: 370px) {
   body {
@@ -119,3 +125,4 @@ a:hover{
   }
 
 }
+
