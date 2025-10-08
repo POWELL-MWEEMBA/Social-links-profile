@@ -79,6 +79,7 @@ h1{
 }
 h2{
     color: var(--Green);
+    font-size: var(--Font-Size-Body);
 }
 .description{
     margin-top: 1.5rem;
@@ -125,6 +126,7 @@ a:focus {
   }
 
 }
+
 
 
 
