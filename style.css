@@ -74,10 +74,10 @@ img{
 .user-details{
   gap: 5px;
 }
-h2{
+h1{
     font-weight: var(--Font-Weight-SemiBold);
 }
-h4{
+h2{
     color: var(--Green);
 }
 .description{
@@ -125,4 +125,5 @@ a:focus {
   }
 
 }
+
 
